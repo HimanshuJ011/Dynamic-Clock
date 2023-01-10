@@ -1,1 +1,1 @@
-# Dynamic-Clock
+# Dynamic-Clock using JS
